@@ -1,0 +1,1 @@
+alert('Purchase made correctly');

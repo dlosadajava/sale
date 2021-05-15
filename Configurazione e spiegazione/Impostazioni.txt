@@ -1,0 +1,24 @@
+dn name:sale
+user db root
+password:
+
+admin
+user wordPress:sale
+password:sale
+
+
+prueba
+user: prueba
+password:prueba
+
+Istruzioni 
+
+Instala il plugin Advanced Custom Fields.
+
+Crea i gruppi di campi e i campi degli articoli con il plugin Advanced Custom Fields (vedi documento  Gruppi di campi e i campi usato)
+(questi campi generano l'id utilizzato nei moduli)
+
+Installa i 5 moduli.
+
+
+
