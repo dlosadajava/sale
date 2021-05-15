@@ -1,1 +1,1 @@
-alert('Purchase made correctly22');
+alert('Purchase made correctly');
