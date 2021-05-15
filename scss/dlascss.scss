@@ -1,0 +1,41 @@
+#dla_div_boton {
+    float: right;
+    background-color: blue;
+}
+
+#dla_form_buy {
+    height: 50px;
+}
+
+$color1:orange;
+$color2:green;
+$color3:royalblue;
+$colorblueclaro:rgb(151, 175, 248);
+$fond-l: 40px;
+$fond-m: 30px;
+$fond-s: 20px;
+header#site-header {
+    background: $color1;
+}
+
+th {
+    background: $color3;
+}
+
+h1.entry-title {
+    //variable local, solo para esta regla
+    $color2: pink;
+    font-size: $fond-l;
+    color: $color2;
+    text-align: center;
+    //variable gobal, para todo el css
+    $color1: red !global;
+    background-color: $color1;
+}
+
+p.footer-copyright {
+    font-size: $fond-m;
+    color: $color2;
+    text-align: center;
+    background-color: $color1;
+}
